@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+#word {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+#hangman {
+  width: 200px;
+  height: 200px;
+  background-image: url('hangman_0.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+#letters {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#letters button {
+  font-size: 20px;
+  margin: 5px;
+}
